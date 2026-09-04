@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">滤波标定算法学习</string>
+
+    <!-- Main Navigation -->
+    <string name="nav_theory">理论学习</string>
+    <string name="nav_visualization">可视化</string>
+    <string name="nav_calculator">计算器</string>
+    <string name="nav_practice">实战演练</string>
+
+    <!-- Theory Module -->
+    <string name="theory_title">相机标定滤波算法详解</string>
+    <string name="theory_subtitle">从零开始的完整数学推导</string>
+
+    <!-- Chapters -->
+    <string name="chapter_1">算法概述</string>
+    <string name="chapter_2">坐标系统</string>
+    <string name="chapter_3">标定板角点</string>
+    <string name="chapter_4">投影模型</string>
+    <string name="chapter_5">畸变模型</string>
+    <string name="chapter_6">雅可比矩阵</string>
+    <string name="chapter_7">PnP求解</string>
+    <string name="chapter_8">零空间消元</string>
+    <string name="chapter_9">信息滤波器</string>
+    <string name="chapter_10">收敛判定</string>
+
+    <!-- Visualization -->
+    <string name="vis_coordinate">坐标变换</string>
+    <string name="vis_projection">投影过程</string>
+    <string name="vis_distortion">畸变效果</string>
+    <string name="vis_filter">滤波收敛</string>
+
+    <!-- Calculator -->
+    <string name="calc_projection">投影计算</string>
+    <string name="calc_jacobian">雅可比计算</string>
+    <string name="calc_filter">信息滤波</string>
+
+    <!-- Practice -->
+    <string name="practice_detection">角点检测</string>
+    <string name="practice_calibration">实时标定</string>
+    <string name="practice_analysis">结果分析</string>
+
+    <!-- Common -->
+    <string name="next">下一步</string>
+    <string name="previous">上一步</string>
+    <string name="calculate">计算</string>
+    <string name="reset">重置</string>
+    <string name="start">开始</string>
+    <string name="stop">停止</string>
+    <string name="close">关闭</string>
+</resources>
